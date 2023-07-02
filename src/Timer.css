@@ -1,0 +1,28 @@
+#time-left {
+  color: #F5F3F4;
+  font-size: 75px;
+  margin: 50px 5px;
+}
+
+#play-pause-image {
+  height: 25px;
+}
+
+#reset-image {
+  height: 25px;
+}
+
+#start_stop {
+  margin-right: 15px;
+  width: 70px;
+  height: 40px;
+}
+
+#reset {
+  margin-left: 15px;
+  width: 70px;
+  height: 40px;
+}
+#timer-label {
+  width: 200px;
+}

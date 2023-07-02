@@ -1,0 +1,32 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #F5F3F4;
+}
+
+body {
+  margin: 0;
+}
+
+.buttons {
+  border-radius: 5px;
+  padding: 0.4em 0.8em;
+  font-family: inherit;
+  background-color: #A4ABBD;
+  border: 1px solid #4e5464;
+  box-shadow: 1px 1px 1px #15171c, inset 1px 1px #d0d0d0;
+
+}
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
